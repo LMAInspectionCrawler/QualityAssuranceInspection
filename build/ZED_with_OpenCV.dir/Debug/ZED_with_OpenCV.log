@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-g'
+cl : Command line warning D9002: ignoring unknown option '-O3'
+  main.cpp
+C:\Users\Administrator\Desktop\zed-opencv\src\main.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\zed-opencv\src\main.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\zed-opencv\src\main.cpp(83): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ZED_with_OpenCV.vcxproj -> C:\Users\Administrator\Desktop\zed-opencv\build\Debug\ZED_with_OpenCV.exe
+  ZED_with_OpenCV.vcxproj -> C:/Users/Administrator/Desktop/zed-opencv/build/Debug/ZED_with_OpenCV.pdb (Full PDB)
